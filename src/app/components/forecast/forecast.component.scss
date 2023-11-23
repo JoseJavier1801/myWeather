@@ -1,0 +1,10 @@
+.example-card{
+    max-width: 10rem;
+}
+
+.horizontal{
+    display: flex;
+    min-height: min-content;
+    flex-flow: row nowrap;
+    overflow-x: scroll;
+}
